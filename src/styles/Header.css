@@ -1,0 +1,32 @@
+.LogOutBtn{
+    text-transform: none !important;
+    border: 1px solid white !important;
+    color: white !important;
+}
+
+.trello_app_text{
+    flex-grow: 1;
+    width: 100px !important;
+    display: inline !important;
+    font-weight: bold !important;
+    font-size: 23px !important; 
+}
+
+
+@media only screen and (max-width: 425px) {
+    .LogOutBtn{
+        text-transform: none !important;
+        border: 1px solid white !important;
+        color: white !important;
+        font-size: 12px !important;
+        width: 80px !important;
+        height: 40px !important;
+        padding: 0 !important;
+    }
+    .logout_icon{
+        font-size: 14px !important;
+    }
+    .trello_app_text{
+        display: none !important;
+    }
+}

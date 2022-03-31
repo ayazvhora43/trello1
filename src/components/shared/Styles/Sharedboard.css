@@ -1,0 +1,47 @@
+.Board {
+    height: 89%;
+    display: flex;
+    overflow-x: auto;
+    flex-direction: row;
+  }
+  
+  .Add-List {
+    width: 272px;
+    margin: 10px;
+    flex-shrink: 0;
+    height: fit-content;
+  }
+  
+  .Add-List-Button {
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.089);
+    border: 1px solid rgba(255, 255, 255, 0.055);
+    border-radius: 4px;
+    cursor: pointer;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    min-height: 32px;
+    padding: 5px 8px;
+    transition: background-color 85ms ease-in, opacity 40ms ease-in,
+      border-color 85ms ease-in;
+    height: fit-content;
+  }
+  
+  .Add-List-Button ion-icon {
+    margin-right: 1px;
+  }
+  
+  @media only screen and (max-width: 425px) {
+    .Board{
+      display: flex !important;
+      flex-direction: column !important;
+      align-items: center !important;
+    }
+  
+    .Add-List {
+      width: 90% !important;
+      margin: 10px 10px !important;
+      flex-shrink: 0;
+    }
+  }

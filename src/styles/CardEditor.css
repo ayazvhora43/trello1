@@ -1,0 +1,21 @@
+.Edit-Card .Card {
+  
+  padding-left: 8px;
+  padding-right: 8px;
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Edit-Card .Card:hover {
+  background: white;
+}
+
+.Edit-Card-Textarea {
+  width: 100%;
+  border: none;
+  resize: none;
+  outline: none;
+  font-size: 17px;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif !important;
+}

@@ -1,0 +1,20 @@
+.some_text{
+    font-size: 16px !important;
+    width: 300px !important;
+    height: 60px !important;
+    margin: 20px 5px !important;
+    padding-left: 53px ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #172B4d;
+}
+.textarea:focus{
+    border: none;
+}
+
+.box_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

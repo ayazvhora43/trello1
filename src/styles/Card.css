@@ -1,0 +1,56 @@
+.Card {
+  position: relative;
+  cursor: pointer;
+  background: white;
+  margin: 5px 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  box-shadow: 0 1px 0 rgba(80, 80, 80, 0.25);
+  font-size: 17px;
+  overflow-wrap: break-word;
+  min-height: 18px;
+}
+
+.Card-Icons {
+  position: absolute;
+  top: 12px;
+  right: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.Card-Icon {
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  margin: 1px;
+  color: rgb(0, 0, 0);
+  background: #ffffff;
+  opacity: 0.9;
+}
+
+.Card-Icon1 {
+  margin:3px 10px 0 20px;
+}
+
+.modal_title{
+  width: 100%;
+  display: inline-flex;
+  flex-direction: row;
+}
+
+.List-Title-Textarea:focus{
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+#bootstrap-input{
+  width: 500px !important;
+  margin-left: 20px;
+}
