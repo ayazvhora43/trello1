@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/trello1/static/css/main.2234b1bf.chunk.css",
+    "main.js": "/trello1/static/js/main.20b6707d.chunk.js",
+    "main.js.map": "/trello1/static/js/main.20b6707d.chunk.js.map",
+    "runtime-main.js": "/trello1/static/js/runtime-main.ff02b771.js",
+    "runtime-main.js.map": "/trello1/static/js/runtime-main.ff02b771.js.map",
+    "static/js/2.c6673fb8.chunk.js": "/trello1/static/js/2.c6673fb8.chunk.js",
+    "static/js/2.c6673fb8.chunk.js.map": "/trello1/static/js/2.c6673fb8.chunk.js.map",
+    "index.html": "/trello1/index.html",
+    "static/css/main.2234b1bf.chunk.css.map": "/trello1/static/css/main.2234b1bf.chunk.css.map",
+    "static/js/2.c6673fb8.chunk.js.LICENSE.txt": "/trello1/static/js/2.c6673fb8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/trello1/static/media/shared_boards_bg.37de0fb5.jpg",
+    "static/media/index.css": "/trello1/static/media/boards_bg.434eebd8.webp",
+    "static/media/ui.8954db49.png": "/trello1/static/media/ui.8954db49.png",
+    "static/media/ui1.39d081a6.png": "/trello1/static/media/ui1.39d081a6.png",
+    "static/media/ui2.8ebcd793.png": "/trello1/static/media/ui2.8ebcd793.png",
+    "static/media/ui3.1d0f2519.png": "/trello1/static/media/ui3.1d0f2519.png",
+    "static/media/ui4.4eac982b.png": "/trello1/static/media/ui4.4eac982b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff02b771.js",
+    "static/js/2.c6673fb8.chunk.js",
+    "static/css/main.2234b1bf.chunk.css",
+    "static/js/main.20b6707d.chunk.js"
+  ]
+}
